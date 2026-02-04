@@ -1,0 +1,16 @@
+# Google Cloud SDKs
+google-cloud-storage>=2.10.0
+google-api-python-client>=2.100.0
+google-auth>=2.23.0
+google-cloud-speech>=2.21.0
+
+# Vertex AI (Gemini 2.5/3.0)
+vertexai>=1.38.0
+google-cloud-aiplatform>=1.38.0
+
+# Web framework
+flask>=2.3.0
+gunicorn>=21.0.0
+
+# Retry utilities
+google-api-core>=2.12.0
